@@ -1,4 +1,4 @@
-package com.nortal.poker.card;
+package com.nortal.game.poker.card;
 
 public enum Suit {
   SPADE, HEART, DIAMOND, CLUB
